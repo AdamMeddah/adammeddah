@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently learning full-stack web development by building real-world apps with React, TypeScript, Node.js and Postgresql.<br><br>I'm working on MusiWrite, an AI-powered playlist generator made for writers, by a writer.
+I'm currently learning full-stack web development by building real-world apps with React, TypeScript, Node.js and PostgreSQL.<br><br>I'm working on MusiWrite, an AI-powered playlist generator made for writers, by a writer.
 
 ## 🌐 Contact Me!
 
