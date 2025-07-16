@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+I'm a second year Computer Science student at McMaster University!
+
 I'm currently learning full-stack web development by building real-world apps with React, TypeScript, Node.js and PostgreSQL.<br><br>I'm working on MusiWrite, an AI-powered playlist generator made for writers, by a writer.
 
 ## 🌐 Contact Me!
