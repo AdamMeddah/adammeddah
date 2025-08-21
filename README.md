@@ -1,12 +1,16 @@
-# 💫 About Me:
+# I'm Adam Meddah.
 
-I'm a second year Computer Science student at McMaster University!
+Second year Computer Science student at McMaster University!
 
-I'm currently learning full-stack web development by building real-world apps with React, TypeScript, Node.js and PostgreSQL.<br><br>I'm working on MusiWrite, an AI-powered playlist generator made for writers, by a writer.
+I'm currently learning <strong> full-stack web development </strong> by building a ton of real-world apps!  
+
+# ⌨️ Right now I'm working on:
+ - An AI-powered playlist maker, made for writers, by a writer
+ - A 3D, interactive Netflix-style portfolio :)
+
 
 ## 🌐 Contact Me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adammeddah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adammeddah28@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adammeddah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adammeddah28@gmail.com)
 
 # 💻 Tech Stack:
 
