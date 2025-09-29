@@ -6,7 +6,7 @@ I'm currently learning <strong> full-stack web development </strong> by building
 
 # ⌨️ Right now I'm working on:
  - An AI-powered playlist maker, made for writers, by a writer
- - A 3D, interactive Netflix-style portfolio :)
+ 
 
 
 ## 🌐 Contact Me!
