@@ -5,7 +5,7 @@ Second year Computer Science student at McMaster University!
 I'm currently learning <strong> full-stack web development </strong> by building a ton of real-world apps!  
 
 # ⌨️ Right now I'm working on:
- - An AI-powered playlist maker, made for writers, by a writer
+ - An AI-powered playlist maker, made for writers, by a writer.
  
 
 
