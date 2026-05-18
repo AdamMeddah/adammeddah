@@ -1,8 +1,5 @@
 
-
-Second year CS @ McMaster University
-
-I love building stuff  
+I love building stuff 
  
  
 
